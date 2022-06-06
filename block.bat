@@ -1,0 +1,11 @@
+netsh advfirewall firewall add rule name="Lean Bypass" dir=out program="C:\Users\Constantinos\AppData\Local\FiveM\FiveM.exe "profile=any action=block
+netsh advfirewall firewall add rule name="Lean Bypass" dir=out program="C:\Users\Constantinos\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_GTAProcess.exe "profile=any action=block
+netsh advfirewall firewall add rule name="Lean Bypass" dir=out program="C:\Users\Constantinos\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_SteamChild.exe "profile=any action=block
+netsh advfirewall firewall add rule name="Lean Bypass" dir=out program="C:\Users\Constantinos\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_b2060_GTAProcess.exe "profile=any action=block
+netsh advfirewall firewall add rule name="Lean Bypass" dir=out program="C:\Users\Constantinos\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_b2060_SteamChild.exe "profile=any action=block
+netsh advfirewall firewall add rule name="Lean Bypass" dir=out program="C:\Users\Constantinos\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_b2189_GTAProcess.exe "profile=any action=block
+netsh advfirewall firewall add rule name="Lean Bypass" dir=out program="C:\Users\Constantinos\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_b2189_SteamChild.exe "profile=any action=block
+netsh advfirewall firewall add rule name="Lean Bypass" dir=out program="C:\Users\Constantinos\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_b2372_GTAProcess.exe "profile=any action=block
+netsh advfirewall firewall add rule name="Lean Bypass" dir=out program="C:\Users\Constantinos\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_b2372_SteamChild.exe "profile=any action=block
+netsh advfirewall firewall add rule name="Lean Bypass" dir=out program="C:\Users\Constantinos\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_b2545_GTAProcess.exe "profile=any action=block
+netsh advfirewall firewall add rule name="Lean Bypass" dir=out program="C:\Users\Constantinos\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_b2545_SteamChild.exe "profile=any action=block
